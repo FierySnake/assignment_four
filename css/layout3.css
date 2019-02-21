@@ -1,0 +1,45 @@
+body{
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+header{
+  order:-2;
+}
+
+#middle{
+  display:flex;
+  flex-flow: row nowrap;
+
+}
+
+#one{
+  display:flex;
+  flex-flow: row wrap;
+}
+#two{
+  display:flex;
+  flex-flow: column wrap;
+}
+
+.navigation
+{
+  order: -1;
+}
+
+.title
+{
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+.article{
+  display: flex
+  flex-flow: row wrap.
+
+}
+
+
+footer{
+  order: 4;
+}

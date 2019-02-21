@@ -1,0 +1,23 @@
+header{
+  background-color: red;
+}
+nav{
+  border-style: solid;
+  border-color: black;
+}
+
+main{
+  background-color: green;
+  border-style: solid;
+  border-color: black;
+}
+p{
+  background-color: yellow;
+  border-style: solid;
+  border-color: black;
+}
+footer{
+  background-color: gray;
+  border-style: solid;
+  border-color: black;
+}
